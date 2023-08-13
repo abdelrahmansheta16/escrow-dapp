@@ -1,0 +1,11 @@
+{
+  "escrows": [
+    {
+      "address": "0x27F7e5DFF359E30fF1bA5481f69bF88382ED33d5",
+      "arbiter": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "beneficiary": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+      "value": "2",
+      "id": 1
+    }
+  ]
+}
